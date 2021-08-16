@@ -1,5 +1,5 @@
 # portfolio_rp
-# Site is live here
+ Check out the deployed version:
 
 https://github.com/Rishupal-13/portfolio_rp
 
