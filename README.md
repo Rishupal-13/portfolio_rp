@@ -1,7 +1,7 @@
 # portfolio_rp
  Check out the deployed version:
 
-https://github.com/Rishupal-13/portfolio_rp
+https://rishupal-13.github.io/portfolio_rp/#/
 
 
 ## Available Scripts
